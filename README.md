@@ -1,3 +1,3 @@
-- 👋 Hi, I’m @matheusdelimasilva
-- 👀 I’m interested in Internet of Things, Microcontrollers, and other stuff!
+- 👋 Hi, I’m Matheus
+- 👀 I’m interested in Data Science
 - 📫 You can reach me via e-mail: mdelim01@tufts.edu
