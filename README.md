@@ -1,3 +1,2 @@
 - 👋 Hi, I’m Matheus
-- 👀 I’m interested in Data Science
-- 📫 You can reach me via e-mail: mdelim01@tufts.edu
+- 📫 matheus.ptc.mg@gmail.com
